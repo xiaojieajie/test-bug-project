@@ -1,0 +1,34 @@
+{
+  "name": "flat-ads-content-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.14.0",
+    "pnpm": ">=7"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@unocss/postcss": "^0.61.6",
+    "@unocss/transformer-attributify-jsx": "^0.61.6",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "install": "^0.13.0",
+    "npm": "^10.8.2",
+    "postcss-px-to-viewport": "^1.1.1",
+    "typescript": "^5",
+    "unocss": "^0.61.6"
+  }
+}
